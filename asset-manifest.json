@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/responsive-paragraph-/static/css/main.0b8b1870.css",
+    "main.js": "/responsive-paragraph-/static/js/main.5892b50b.js",
+    "index.html": "/responsive-paragraph-/index.html",
+    "main.0b8b1870.css.map": "/responsive-paragraph-/static/css/main.0b8b1870.css.map",
+    "main.5892b50b.js.map": "/responsive-paragraph-/static/js/main.5892b50b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8b1870.css",
+    "static/js/main.5892b50b.js"
+  ]
+}
